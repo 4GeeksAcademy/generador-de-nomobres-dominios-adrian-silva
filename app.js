@@ -1,7 +1,7 @@
-let pronombres = ['the', 'our'];
-let adjetivos = ['great', 'big'];
-let sustantivos = ['jogi', 'racoo'];
-let extenxsiones = ['.com', '.net', '.us', '.io'];
+let pronoun = ['the', 'our'];
+let adj = ['great', 'big'];
+let noun = ['jogi', 'racoo'];
+let extenxsion = ['.com', '.net', '.us', '.io'];
 
 for (let i = 0; i < pronoun.length; i++) {
     for (let j = 0; j < adj.length; j++) {
